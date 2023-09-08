@@ -1,4 +1,4 @@
-# cpu-cache-emulator
+# Short description
 
 A CPU emulator to evaluate performance of caching strategies and alignment in matrix multiplication and DAXPY programs.
 
